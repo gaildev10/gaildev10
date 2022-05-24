@@ -13,8 +13,8 @@ I'm Gail a Software Developer from NW Connecticut. I really enjoy learning and w
 
 ## Examples of Work
 
-<img src="https://github.com/gaildev10/gaildev10/blob/main/gifapp.gif" width="256">
-<img src="https://github.com/gaildev10/gaildev10/blob/main/portgif.gif" width="256">
+<img src="https://github.com/gaildev10/gaildev10/blob/main/gifapp.gif" width="256"> 
+<img src="https://github.com/gaildev10/gaildev10/blob/main/portgif2.gif" width="256"> 
 
 
 
