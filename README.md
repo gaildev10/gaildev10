@@ -11,6 +11,9 @@ I'm Gail a Software Developer from NW Connecticut. I really enjoy learning and w
 ## Skills & Experience: 
 🖥. HTML, CSS, JS, React, Node.js
 
+## Examples of Work
+
+<img src="gif.gif" width="256"
 
 
 
