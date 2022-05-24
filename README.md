@@ -9,7 +9,7 @@ I'm Gail a Software Developer from NW Connecticut. I really enjoy learning and w
 ![Gail's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaildev10&theme=tokyonight&show_icons=true)
 
 ## Skills & Experience: 
-🖥. HTML, CSS, JS, React, Node.js
+🖥. HTML, CSS, JS, React, Node.js, Full-Stack Developer
 
 ## Examples of Work
 
